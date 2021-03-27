@@ -1,0 +1,22 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #cfdac8;
+}
+
+.card-text {
+    text-align: center;
+    font-weight: 300;
+}
+
+.card-body {
+    background-color: #cfdac8;
+
+}
+
+section {
+    padding-top: 5rem;
+}
